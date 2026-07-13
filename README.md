@@ -3,8 +3,7 @@
 A single-page restaurant website built with **HTML, CSS, and vanilla JavaScript**. Designed for a fictional wood-fired restaurant, featuring an interactive menu with a working cart/order system.
 
 ## Live Demo
-[View it here](#) <!-- replace with your GitHub Pages / Netlify link -->
-
+[View it here]( https://abdul5550.github.io/Ember-Oak/) 
 ## Built With
 - HTML5
 - CSS3 (custom properties, animations, responsive grid layout)
